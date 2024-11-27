@@ -16,7 +16,12 @@
 
 5.  is a visual representation of how items in a database relate to each other.It's a specialized type of flowchart that conveys the relationship types between different entities within a system. 
 
-6. 
+6. - Data Consistency and Integrity
+   - Easy Data Retrieval and Manipulation
+   - Relational databases are highly flexible and adaptable. New tables and relationships can be added easily to accommodate changing business needs.
+   - Relational databases offer robust security features to protect sensitive data, including user authentication, access controls, and encryption.
+
+
 
 7. - Numeric data types (Integers, Decimals, Float)
    - Character data types(Char, Varchar, text)
