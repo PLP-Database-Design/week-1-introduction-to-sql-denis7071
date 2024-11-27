@@ -17,9 +17,11 @@
 
 5.  is a visual representation of how items in a database relate to each other.It's a specialized type of flowchart that conveys the relationship types between different entities within a system. 
 
-6. - Numeric data types (Integers, Decimals, Float)
+6. 
+
+7. - Numeric data types (Integers, Decimals, Float)
    - Character data types(Char, Varchar, text)
    - Date and Time Data Types(Date, Timestamps)
    - Logical Data Types(Boolean)
 
-7. To store Data in a structured format, making it accessible and retrivable.
+8. To store Data in a structured format, making it accessible and retrivable.
