@@ -10,8 +10,7 @@
 3. - Data Definition Language (DDL):Used to define the structure of a database.Operations include creating, modifying, and deleting database objects like tables, indexes, and views.
     
    - Data Manipulation Language (DML):Used to manipulate data within a database.Operations include inserting, updating, and deleting data from tables.
-
-  - Data Control Language (DCL):Used to control access to and manipulate database objects.Operations include granting and revoking privileges to users.
+   - Data Control Language (DCL):Used to control access to and manipulate database objects.Operations include granting and revoking privileges to users.
 
 4. primary keys are unique identifiers for each roow while Foreign keys are keys that link between tables with related data.
 
